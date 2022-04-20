@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-ole/go-ole"
+	ole "github.com/go-ole/go-ole"
 	"github.com/go-ole/go-ole/oleutil"
 	_ "github.com/mattn/go-adodb"
 )
