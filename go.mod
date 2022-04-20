@@ -1,4 +1,4 @@
-module ole-test
+module github.com/badsector998/winccoledb
 
 go 1.17
 

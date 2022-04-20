@@ -45,6 +45,7 @@ func main() {
 		fmt.Println("Error DB Connection", err)
 		return
 	}
+	defer db.Release()
 
 	_, err = oleutil.CallMethod(db, "Open", DDSN)
 	if err != nil {
