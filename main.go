@@ -47,7 +47,7 @@ func main() {
 	}
 	defer db.Release()
 
-	_, err = oleutil.CallMethod(db, "Open", DDSN)
+	_, err = oleutil.CallMethod(db, "Open", conn_string)
 	if err != nil {
 		fmt.Println("Error DB Connection on Ping", err)
 		return
@@ -98,7 +98,7 @@ func main() {
 
 	fmt.Println(val)
 
-	result, err := oleutil.CallMethod(sq, "ExecQuery", conn_string)
+	result, err := oleutil.CallMethod(sq, "Execute", val)
 	if err != nil {
 		fmt.Println("Result error", err)
 		return
