@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-ole/go-ole"
+	"github.com/mattn/go-adodb"
 	_ "github.com/mattn/go-adodb"
 )
 
@@ -18,10 +18,14 @@ const (
 )
 
 func main() {
-	fmt.Println("Coba Koneksi WinCC DB!")
-	ole.CoInitialize(0)
-	defer ole.CoUninitialize()
-	conn_string := Provider + DSN + DS
+	fmt.Println("Coba Koneksi WinCC DB! 5")
+
+	conn_string := `Provider=WinCCOLEDBProvider.1;Persist Security Info=False;User ID="";Data Source=10.1.1.1\WINCC;Catalog=CC_OS_1__21_12_14_16_25_11R;Mode=Read;Location="";Mode=Read;Extended Properties=""`
+
+	sql.Register("adodb_with_cursorlocation", &adodb.AdodbDriver{
+		CursorLocation: 3,
+	})
+
 	db, err := sql.Open(db_type, conn_string)
 	if err != nil {
 		fmt.Println("open", err)
@@ -46,7 +50,9 @@ func main() {
 		delay()
 		return
 	}
+	fmt.Println("Query Executed Sucesfully!")
 	defer row.Close()
+
 	for row.Next() {
 		var (
 			valueId   int
@@ -70,8 +76,6 @@ func main() {
 		return
 	}
 
-	duration := time.Duration(10) * time.Second
-	time.Sleep(duration)
 }
 
 func delay() {
