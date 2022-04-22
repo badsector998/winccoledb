@@ -6,6 +6,7 @@ import (
 	"time"
 
 	"github.com/mattn/go-adodb"
+	_ "github.com/mattn/go-adodb"
 )
 
 const (
@@ -17,7 +18,7 @@ const (
 )
 
 func main() {
-	fmt.Println("Coba Koneksi WinCC DB! 3")
+	fmt.Println("Coba Koneksi WinCC DB! 5")
 
 	conn_string := `Provider=WinCCOLEDBProvider.1;Persist Security Info=False;User ID="";Data Source=10.1.1.1\WINCC;Catalog=CC_OS_1__21_12_14_16_25_11R;Mode=Read;Location="";Mode=Read;Extended Properties=""`
 
@@ -25,7 +26,7 @@ func main() {
 		CursorLocation: 3,
 	})
 
-	db, err := sql.Open("v", conn_string)
+	db, err := sql.Open("adodb", conn_string)
 	if err != nil {
 		fmt.Println("open", err)
 		delay()
@@ -49,6 +50,7 @@ func main() {
 		delay()
 		return
 	}
+	fmt.Println("Query Executed Sucesfully!")
 	defer row.Close()
 
 	for row.Next() {
