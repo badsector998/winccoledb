@@ -53,6 +53,11 @@ func main() {
 	fmt.Println("Query Executed Sucesfully!")
 	defer row.Close()
 
+	//========= Create ADODB.RecordSet ============
+	// recSet, err := oleutil.CreateObject("ADODB.RecordSet")
+	// recSet, err = db.Query(query)
+	//========= Store Query Result to ADODB.RecordSet Object ===========
+
 	for row.Next() {
 		var (
 			valueId   int
