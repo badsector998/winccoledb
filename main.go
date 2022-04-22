@@ -26,7 +26,7 @@ func main() {
 		CursorLocation: 3,
 	})
 
-	db, err := sql.Open("adodb", conn_string)
+	db, err := sql.Open(db_type, conn_string)
 	if err != nil {
 		fmt.Println("open", err)
 		delay()
