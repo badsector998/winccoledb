@@ -3,9 +3,8 @@ package main
 import (
 	"fmt"
 
-	ole "github.com/go-ole/go-ole"
+	"github.com/go-ole/go-ole"
 	"github.com/go-ole/go-ole/oleutil"
-	_ "github.com/mattn/go-adodb"
 )
 
 const (
@@ -26,14 +25,9 @@ func main() {
 	query := `TAG:R,'SystemArchive\1511_AT_1379A/MS.PV_Out#Value','2022-02-08 07:35:00.000', '2022-02-08 07:40:00.000'`
 	conn_string := Provider + DSN + DS
 
-	// db, err := sql.Open(db_type, conn_string)
-	// if err != nil {
-	// 	fmt.Println("open", err)
-	// 	delay()
-	// 	return
-	// }
-	// defer db.Close()
+	//to do 4 : Execute Query then immedietly stores into RecorsetObject
 
+	//to do 1 : Create Connection
 	conn_service, err := oleutil.CreateObject("ADODB.Connection")
 	if err != nil {
 		fmt.Println("Error Creating Connection Object", err)
@@ -45,14 +39,18 @@ func main() {
 		fmt.Println("Error DB Connection", err)
 		return
 	}
-	defer db.Release()
+	conn_service.Release()
 
+	_, _ = oleutil.PutProperty(db, "CursorLocation", 3)
+
+	//to do 2 : Open Connection
 	_, err = oleutil.CallMethod(db, "Open", conn_string)
 	if err != nil {
 		fmt.Println("Error DB Connection on Ping", err)
 		return
 	}
 
+	//to do 3 : Create Query Statement
 	cmd, err := oleutil.CreateObject("ADODB.Command")
 	if err != nil {
 		fmt.Print("Error Creating Command Object", err)
@@ -64,7 +62,7 @@ func main() {
 		fmt.Println("Error Creating Query Interface", err)
 		return
 	}
-	defer sq.Release()
+	cmd.Release()
 
 	_, err = oleutil.PutProperty(sq, "ActiveConnection", db)
 	if err != nil {
@@ -90,15 +88,9 @@ func main() {
 		return
 	}
 
-	val, err := oleutil.GetProperty(sq, "Parameters")
-	if err != nil {
-		fmt.Println("Error Getting SQ Params", err)
-		return
-	}
-
-	fmt.Println(val)
-
-	result, err := oleutil.CallMethod(sq, "Execute", val)
+	// a. Create ADODB.RecordSet object
+	// b. Convert ADODB.RecordSet into *ole.VARIANT type
+	result, err := oleutil.CallMethod(sq, "Execute")
 	if err != nil {
 		fmt.Println("Result error", err)
 		return
