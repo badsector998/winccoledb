@@ -17,6 +17,14 @@ const (
 	db_type  = "adodb"
 )
 
+type Data struct {
+	valueId   int
+	timeStamp string
+	realValue float64
+	quality   string
+	flags     string
+}
+
 func main() {
 	fmt.Println("Coba Koneksi WinCC DB! 5")
 
@@ -53,20 +61,20 @@ func main() {
 	fmt.Println("Query Executed Sucesfully!")
 	defer row.Close()
 
+	var result []Data
 	for row.Next() {
-		var (
-			valueId   int
-			timeStamp string
-			realValue string
-			quality   string
-			flags     string
-		)
-		// var valueName string
-		err = row.Scan(&valueId, &timeStamp, &realValue, &quality, &flags)
-		if err != nil {
-			fmt.Println("Row Error : ", err)
+		var res Data
+		if err := row.Scan(
+			&res.valueId,
+			&res.timeStamp,
+			&res.realValue,
+			&res.quality,
+			&res.flags); err != nil {
+			fmt.Println("Error Scanning", err)
+			delay()
+			return
 		}
-		fmt.Println(valueId, timeStamp, realValue, quality, flags)
+		result = append(result, res)
 	}
 
 	err = row.Err()
