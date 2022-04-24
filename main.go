@@ -10,11 +10,10 @@ import (
 )
 
 const (
-	//provider harus cek lagi di server PDK
 	Provider = "Provider=WinCCOLEDBProvider.1;"
 	DSN      = "Catalog=CC_OS_1__21_12_14_16_25_11R;"
 	DS       = "Data Source=10.1.1.1\\WINCC"
-	db_type  = "adodb"
+	db_type  = "adodb_with_cursorlocation"
 )
 
 type Data struct {
@@ -30,7 +29,7 @@ func main() {
 
 	conn_string := `Provider=WinCCOLEDBProvider.1;Persist Security Info=False;User ID="";Data Source=10.1.1.1\WINCC;Catalog=CC_OS_1__21_12_14_16_25_11R;Mode=Read;Location="";Mode=Read;Extended Properties=""`
 
-	sql.Register("adodb_with_cursorlocation", &adodb.AdodbDriver{
+	sql.Register(db_type, &adodb.AdodbDriver{
 		CursorLocation: 3,
 	})
 
@@ -49,8 +48,6 @@ func main() {
 		return
 	}
 
-	// command, err := oleutil.CreateObject("ADODB.Command")
-
 	query := `TAG:R,'SystemArchive\1511_AT_1379A/MS.PV_Out#Value','2022-02-08 07:35:00.000', '2022-02-08 07:40:00.000'`
 	row, err := db.Query(query)
 	if err != nil {
@@ -61,7 +58,7 @@ func main() {
 	fmt.Println("Query Executed Sucesfully!")
 	defer row.Close()
 
-	var result []Data
+	var result = []Data{}
 	for row.Next() {
 		var res Data
 		if err := row.Scan(
@@ -82,6 +79,14 @@ func main() {
 		fmt.Println("Error row : ", err)
 		delay()
 		return
+	}
+
+	for _, index := range result {
+		fmt.Print(index.valueId, "\t")
+		fmt.Print(index.timeStamp, "\t")
+		fmt.Print(index.realValue, "\t")
+		fmt.Print(index.quality, "\t")
+		fmt.Print(index.flags, "\t")
 	}
 
 }
