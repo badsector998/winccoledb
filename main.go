@@ -81,12 +81,12 @@ func main() {
 		return
 	}
 
-	for _, index := range result {
-		fmt.Print(index.valueId, "\t")
-		fmt.Print(index.timeStamp, "\t")
-		fmt.Print(index.realValue, "\t")
-		fmt.Print(index.quality, "\t")
-		fmt.Print(index.flags, "\t")
+	for _, content := range result {
+		fmt.Print(content.valueId, "\t")
+		fmt.Print(content.timeStamp, "\t")
+		fmt.Print(content.realValue, "\t")
+		fmt.Print(content.quality, "\t")
+		fmt.Println(content.flags, "\t")
 	}
 
 }
