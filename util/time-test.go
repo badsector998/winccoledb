@@ -15,4 +15,6 @@ func main() {
 	fmt.Println(loc)
 	fmt.Println(startTime)
 	fmt.Println(endTime)
+
+	fmt.Println("TAG:R '" + output + "', '" + startTime.String() + "', '" + endTime.String() + "' ")
 }
