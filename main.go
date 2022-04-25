@@ -11,8 +11,8 @@ import (
 
 const (
 	Provider = "Provider=WinCCOLEDBProvider.1;"
-	DSN      = "Catalog=CC_OS_1__21_12_14_16_25_11R;"
-	DS       = "Data Source=10.1.1.1\\WINCC"
+	DSN      = "Catalog=CC_OS_1__21_12_14_16_25_11R"
+	DS       = "Data Source=10.1.1.1\\WINCC;"
 	db_type  = "adodb_with_cursorlocation"
 )
 
@@ -27,7 +27,10 @@ type Data struct {
 func main() {
 	fmt.Println("Coba Koneksi WinCC DB! 5")
 
-	conn_string := `Provider=WinCCOLEDBProvider.1;Persist Security Info=False;User ID="";Data Source=10.1.1.1\WINCC;Catalog=CC_OS_1__21_12_14_16_25_11R;Mode=Read;Location="";Mode=Read;Extended Properties=""`
+	// Original(tested) Query :
+	// `Provider=WinCCOLEDBProvider.1;Persist Security Info=False;User ID="";Data Source=10.1.1.1\WINCC;Catalog=CC_OS_1__21_12_14_16_25_11R;Mode=Read;Location="";Mode=Read;Extended Properties=""`
+
+	conn_string := Provider + DS + DSN
 
 	sql.Register(db_type, &adodb.AdodbDriver{
 		CursorLocation: 3,
@@ -48,7 +51,15 @@ func main() {
 		return
 	}
 
-	query := `TAG:R,'SystemArchive\1511_AT_1379A/MS.PV_Out#Value','2022-02-08 07:35:00.000', '2022-02-08 07:40:00.000'`
+	output := "SystemArchive\\1511_AT_1379A/MS.PV_Out#Value"
+	loc := time.FixedZone("UTC+7", +7*60*60)
+	startTime := time.Date(2022, 02, 8, 7, 35, 0, 0, loc)
+	endTime := time.Date(2022, 02, 8, 7, 40, 0, 0, loc)
+
+	// Tested Query :
+	//`TAG:R,'SystemArchive\1511_AT_1379A/MS.PV_Out#Value','2022-02-08 07:35:00.000', '2022-02-08 07:40:00.000'`
+
+	query := "TAG:R '" + output + "', '" + startTime.String() + "', '" + endTime.String() + "' "
 	row, err := db.Query(query)
 	if err != nil {
 		fmt.Println("Query Error : ", err)
