@@ -3,10 +3,12 @@ package main
 import (
 	"database/sql"
 	"fmt"
+	"os"
+	"path"
 	"time"
 
+	"github.com/davecgh/go-spew/spew"
 	"github.com/mattn/go-adodb"
-	_ "github.com/mattn/go-adodb"
 )
 
 const (
@@ -51,15 +53,15 @@ func main() {
 		return
 	}
 
-	output := "SystemArchive\\1511_AT_1379A/MS.PV_Out#Value"
-	loc := time.FixedZone("UTC+7", +7*60*60)
-	startTime := time.Date(2022, 02, 8, 7, 35, 0, 0, loc)
-	endTime := time.Date(2022, 02, 8, 7, 40, 0, 0, loc)
+	// output := `SystemArchive\1511_AT_1379A/MS.PV_Out#Value`
+	// loc := time.FixedZone("UTC+7", +7*60*60)
+	// startTime := time.Date(2022, 02, 8, 7, 35, 0, 0, loc)
+	// endTime := time.Date(2022, 02, 8, 7, 40, 0, 0, loc)
 
 	// Tested Query :
-	//`TAG:R,'SystemArchive\1511_AT_1379A/MS.PV_Out#Value','2022-02-08 07:35:00.000', '2022-02-08 07:40:00.000'`
+	query := `TAG:R,'SystemArchive\1511_AT_1379A/MS.PV_Out#Value','2022-02-08 07:35:00.000', '2022-02-08 07:40:00.000'`
 
-	query := "TAG:R '" + output + "', '" + startTime.String() + "', '" + endTime.String() + "' "
+	//query := "TAG:R '" + output + "', '" + startTime.String() + "', '" + endTime.String() + "' "
 	row, err := db.Query(query)
 	if err != nil {
 		fmt.Println("Query Error : ", err)
@@ -69,21 +71,31 @@ func main() {
 	fmt.Println("Query Executed Sucesfully!")
 	defer row.Close()
 
-	var result = []Data{}
-	for row.Next() {
-		var res Data
-		if err := row.Scan(
-			&res.valueId,
-			&res.timeStamp,
-			&res.realValue,
-			&res.quality,
-			&res.flags); err != nil {
-			fmt.Println("Error Scanning", err)
-			delay()
-			return
+	cols, _ := row.Columns()
+
+	now := time.Now().Local().Format("2006-01-02_15-04-05")
+	fmt.Println("Current time: ", now)
+
+	resultPath := path.Join("result", now)
+
+	if _, err := os.Stat(resultPath); os.IsNotExist(err) {
+		err = os.MkdirAll(resultPath, 0750)
+		if err != nil {
+			panic(err)
 		}
-		result = append(result, res)
 	}
+
+	w, err := os.Create(path.Join(resultPath, "structured.txt"))
+	if err != nil {
+		panic(err)
+	}
+	defer w.Close()
+
+	w2, err := os.Create(path.Join(resultPath, "dump.txt"))
+	if err != nil {
+		panic(err)
+	}
+	defer w.Close()
 
 	err = row.Err()
 	if err != nil {
@@ -92,13 +104,54 @@ func main() {
 		return
 	}
 
-	for _, content := range result {
-		fmt.Print(content.valueId, "\t")
-		fmt.Print(content.timeStamp, "\t")
-		fmt.Print(content.realValue, "\t")
-		fmt.Print(content.quality, "\t")
-		fmt.Println(content.flags, "\t")
+	for row.Next() {
+		columns := make([]interface{}, len(cols))
+		columnPointer := make([]interface{}, len(cols))
+		for i := range columns {
+			columnPointer[i] = &columns[i]
+		}
+
+		if err := row.Scan(columnPointer...); err != nil {
+			panic(err)
+		}
+
+		m := make(map[string]interface{})
+		for i, colName := range cols {
+			val := columnPointer[i].(*interface{})
+			m[colName] = *val
+		}
+
+		_, _ = fmt.Fprintf(w, "%+v\n", m)
+
+		spew.Fdump(w2, m)
 	}
+	fmt.Fprintf(w2, "\n-------------------------------------------")
+
+	// var result = []Data{}
+	// for row.Next() {
+	// 	var res Data
+	// 	if err := row.Scan(
+	// 		&res.valueId,
+	// 		&res.timeStamp,
+	// 		&res.realValue,
+	// 		&res.quality,
+	// 		&res.flags); err != nil {
+	// 		fmt.Println("Error Scanning", err)
+	// 		delay()
+	// 		return
+	// 	}
+	// 	result = append(result, res)
+	// }
+
+	// fmt.Println("query result: ", row)
+
+	// for _, content := range result {
+	// 	fmt.Print(content.valueId, "\t")
+	// 	fmt.Print(content.timeStamp, "\t")
+	// 	fmt.Print(content.realValue, "\t")
+	// 	fmt.Print(content.quality, "\t")
+	// 	fmt.Println(content.flags, "\t")
+	// }
 
 }
 

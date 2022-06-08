@@ -1,0 +1,2102 @@
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:00.412999768 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.770217895507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.778356552124023,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:01.413000002 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:02.413000236 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.779260635375977,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.78016471862793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:03.412999841 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:04.413000075 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.781068801879883,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:05.413000308 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.770217895507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:06.412999914 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.76931381225586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:07.413000147 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.762984275817871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:08.412999752 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.762080192565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:09.412999986 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.772027015686035
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.78016471862793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:10.41300022 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:11.412999825 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.798249244689941,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:12.413000059 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.824471473693848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:13.413000293 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.847077369689941,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:14.412999898 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.855215072631836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.855215072631836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:15.413000131 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:16.412999737 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.856119155883789
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:17.41299997 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.865161895751953,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:18.413000204 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.865161895751953,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.87510871887207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:19.412999809 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:20.413000043 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.8742036819458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:21.413000277 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.883246421813965,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.87510871887207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:22.412999882 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:23.413000116 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.87510871887207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:24.412999721 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.885054588317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:25.412999955 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.892288208007812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:26.413000188 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.912181854248047
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:27.412999793 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.941116333007812,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:28.413000027 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.951967239379883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.970955848693848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:29.413000261 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:30.412999866 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.979998588562012,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:31.4130001 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.989944458007812
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:32.412999705 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.98904037475586,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:33.412999939 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.979998588562012,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:34.413000172 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.961009979248047,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:35.412999778 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.933882713317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:36.413000011 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.911277770996094,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:37.413000245 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.876012802124023,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:38.41299985 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.829896926879883
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.800057411193848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:39.413000084 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:40.412999689 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.781068801879883
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.759367942810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:41.412999923 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:42.413000157 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7421875,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:43.412999762 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:44.412999995 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.713252067565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.70421028137207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:45.413000229 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:46.412999834 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7033052444458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.713252067565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:47.413000068 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:48.413000302 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.723198890686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:49.412999907 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.723198890686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:50.413000141 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.732240676879883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:51.412999746 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:52.41299998 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.751229286193848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:53.413000213 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.761176109313965,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:54.412999819 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.771122932434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:55.413000052 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.790111541748047,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:56.413000286 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.798249244689941,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:57.412999891 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.807291030883789,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:58.413000125 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.80457878112793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:35:59.41299973 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.800057411193848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:00.412999964 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.800057411193848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:01.413000198 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.808196067810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:02.412999803 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.806386947631836,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:03.413000036 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.828088760375977
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:04.41300027 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.837130546569824
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.838035583496094,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:05.412999875 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:06.413000109 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.836226463317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:07.412999714 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.82628059387207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:08.412999948 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.81814193725586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:09.413000182 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.800057411193848
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:10.412999787 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.78016471862793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:11.413000021 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.750325202941895,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.741283416748047,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:12.413000254 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:13.41299986 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:14.413000093 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.723198890686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:15.412999698 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:16.412999932 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.721389770507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:17.413000166 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:18.412999771 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.713252067565918
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:19.413000005 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.713252067565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:20.413000239 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.712347984313965,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:21.412999844 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.713252067565918,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:22.413000077 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.723198890686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:23.413000311 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.733144760131836
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:24.412999916 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.73133659362793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:25.41300015 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.712347984313965,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:26.412999755 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7033052444458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:27.412999989 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7033052444458,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:28.413000223 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.711443901062012,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:29.412999828 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.723198890686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:30.413000062 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:31.413000295 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.759367942810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:32.4129999 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.77745246887207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:33.413000134 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.809100151062012
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:34.412999739 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.819046020507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:35.412999973 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.836226463317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.8642578125,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:36.413000207 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:37.412999812 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.885054588317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:38.413000046 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.895001411437988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:39.41300028 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.904043197631836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:40.412999885 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.893193244934082,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:41.413000118 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.884150505065918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.87510871887207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:42.412999724 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.857024192810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:43.412999957 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:44.413000191 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.83984375,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:45.412999796 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.828088760375977,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.813621520996094,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:46.41300003 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:47.413000264 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.787398338317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:48.412999869 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.779260635375977,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:49.413000103 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.781068801879883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:50.412999708 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.76931381225586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:51.412999941 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.768409729003906,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:52.413000175 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.76931381225586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:53.41299978 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.761176109313965,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:54.413000014 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.761176109313965,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:55.413000248 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.770217895507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:56.412999853 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.759367942810059
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:57.413000087 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.750325202941895,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.743091583251953,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:58.412999692 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:36:59.412999926 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.733144760131836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:00.413000159 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:01.412999765 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.723198890686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:02.412999998 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.7033052444458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:03.413000232 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:04.412999837 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.694263458251953
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:05.413000071 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.694263458251953
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:06.413000305 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.712347984313965,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:07.41299991 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:08.413000144 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.743091583251953,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:09.412999749 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7421875,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:10.412999982 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.741283416748047,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:11.413000216 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.734953880310059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:12.412999821 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.724102973937988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:13.413000055 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:14.413000289 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.723198890686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:15.412999894 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:16.413000128 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.73133659362793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:17.412999733 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.746708869934082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:18.412999967 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.762984275817871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:19.4130002 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7666015625,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:20.412999805 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.78016471862793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:21.413000039 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.788302421569824,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:22.413000273 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.798249244689941,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:23.412999878 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.827184677124023,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:24.413000112 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.828088760375977,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:25.412999717 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.82899284362793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:26.412999951 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.828088760375977,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:27.413000185 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.816333770751953,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:28.41299979 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.81814193725586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:29.413000023 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.828088760375977,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.828088760375977,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:30.413000257 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:31.412999862 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.828088760375977,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:32.413000096 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.827184677124023,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:33.412999701 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.81814193725586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.819046020507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:34.412999935 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:35.413000169 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.809100151062012,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:36.412999774 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.808196067810059
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:37.413000008 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.807291030883789,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:38.413000241 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.808196067810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:39.412999846 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.800057411193848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:40.41300008 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.790111541748047,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:41.412999685 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.778356552124023,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:42.412999919 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.775643348693848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:43.413000153 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.771122932434082
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:44.412999758 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.772027015686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:45.412999992 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.770217895507812,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.759367942810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:46.413000226 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:47.412999831 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.759367942810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:48.413000064 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.772027015686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:49.413000298 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.762080192565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:50.412999903 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.757558822631836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:51.413000137 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.749421119689941,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.7421875,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:52.412999742 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:53.412999976 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.733144760131836,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:54.41300021 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.724102973937988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:55.412999815 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.721389770507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:56.413000049 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.713252067565918
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:57.413000282 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.708730697631836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:58.412999887 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7033052444458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.7033052444458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:37:59.413000121 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:00.412999726 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7033052444458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.694263458251953,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:01.41299996 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:02.413000194 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.674370765686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.664423942565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:03.412999799 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:04.413000033 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.657190322875977,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:05.413000266 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.651764869689941,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:06.412999872 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.65538215637207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:07.413000105 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.664423942565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.665328025817871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:08.41299971 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:09.412999944 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.665328025817871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:10.413000178 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.675274848937988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.675274848937988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:11.412999783 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:12.413000017 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.674370765686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:13.413000251 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.677083015441895
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:14.412999856 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.684316635131836,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:15.41300009 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.685220718383789
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:16.412999695 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.684316635131836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:17.412999928 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.693359375,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:18.413000162 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.694263458251953,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:19.412999767 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.70421028137207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:20.413000001 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.713252067565918,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:21.413000235 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:22.41299984 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:23.413000074 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.756654739379883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:24.413000307 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.772027015686035,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:25.412999913 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.78016471862793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:26.413000146 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.788302421569824,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.797345161437988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:27.412999751 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:28.412999985 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.817237854003906,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:29.413000219 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.847077369689941,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:30.412999824 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.8742036819458,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.893193244934082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:31.413000058 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:32.413000292 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.9230318069458,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:33.412999897 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.932978630065918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:34.413000131 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.933882713317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:35.412999736 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.92393684387207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:36.412999969 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.922127723693848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:37.413000203 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.894097328186035
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:38.412999808 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.885958671569824
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:39.413000042 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.855215072631836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:40.413000276 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.82899284362793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:41.412999881 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.808196067810059
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:42.413000115 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.807291030883789,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:43.41299972 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.808196067810059
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.809100151062012,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:44.412999954 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:45.413000187 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.819046020507812
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:46.412999792 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.827184677124023,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.836226463317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:47.413000026 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:48.41300026 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.836226463317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:49.412999865 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.827184677124023
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:50.413000099 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.819046020507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:51.412999704 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.807291030883789,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:52.412999938 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.797345161437988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:53.413000172 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.789207458496094,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:54.412999777 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.781068801879883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:55.41300001 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.770217895507812,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:56.413000244 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.748517036437988,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:57.412999849 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.73133659362793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:58.413000083 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7277193069458
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:38:59.412999688 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:00.412999922 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.730432510375977
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:01.413000156 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.73133659362793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:02.412999761 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:03.412999995 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:04.413000228 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:05.412999833 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.713252067565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:06.413000067 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.721389770507812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:07.413000301 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.732240676879883,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:08.412999906 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.733144760131836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:09.41300014 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7421875,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:10.412999745 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.741283416748047,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:11.412999979 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.750325202941895,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:12.413000212 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.768409729003906,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:13.412999818 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.790111541748047,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:14.413000051 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.800057411193848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:15.413000285 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.799153327941895,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.816333770751953,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:16.41299989 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:17.413000124 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.82628059387207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:18.412999729 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.854310989379883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:19.412999963 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.87510871887207
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:20.413000197 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.884150505065918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:21.412999802 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.879629135131836,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:22.413000036 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.885054588317871
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.876012802124023,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:23.413000269 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:24.412999874 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.895001411437988
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:25.413000108 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.903139114379883,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:26.412999713 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.904043197631836,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.9130859375,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:27.412999947 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:28.413000181 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.904947280883789
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:29.412999786 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.904947280883789,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:30.41300002 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.884150505065918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:31.413000253 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.87510871887207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:32.412999859 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.856119155883789
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:33.413000092 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.836226463317871,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:34.412999697 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.837130546569824,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:35.412999931 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.847981452941895,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:36.413000165 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.856119155883789,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:37.41299977 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.855215072631836
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:38.413000004 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.86697006225586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:39.413000238 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.856119155883789,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:40.412999843 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.837130546569824
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:41.413000077 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.808196067810059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:42.41300031 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.788302421569824,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:43.412999915 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.761176109313965,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:44.413000149 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.7421875,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:45.412999754 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.722294807434082,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:46.412999988 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.694263458251953,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:47.413000222 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.674370765686035,
+ (string) (len=7) "Quality": (int64) 128
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:48.412999827 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.664423942565918,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:49.413000061 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.657190322875977,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:50.413000294 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.637297630310059,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "RealValue": (float64) 10.626446723937988,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:51.4129999 +0700 +07
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:52.413000133 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.617403984069824
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:53.412999738 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.60926628112793,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:54.412999972 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.599319458007812,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:55.413000206 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.59841537475586,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:56.412999811 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.58213996887207,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:57.413000045 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.580330848693848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704,
+ (string) (len=7) "ValueID": (int64) 1
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:58.413000279 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.580330848693848,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+(map[string]interface {}) (len=5) {
+ (string) (len=7) "ValueID": (int64) 1,
+ (string) (len=9) "Timestamp": (time.Time) 2022-02-08 07:39:59.412999884 +0700 +07,
+ (string) (len=9) "RealValue": (float64) 10.589373588562012,
+ (string) (len=7) "Quality": (int64) 128,
+ (string) (len=5) "Flags": (int64) 8392704
+}
+
+-------------------------------------------
